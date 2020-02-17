@@ -6,3 +6,4 @@ First connect to origin successfully.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add merge
+bug test
