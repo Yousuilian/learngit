@@ -5,4 +5,4 @@ Git tracks changes of files.
 I like Git.
 First connect to origin successfully.
 Creating a new branch is quick(dev).
-Creating a new branch is quick(devv).
+Creating a new branch is quick & simple (devv).
